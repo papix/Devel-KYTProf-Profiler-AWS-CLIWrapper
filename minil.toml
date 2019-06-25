@@ -1,5 +1,5 @@
 name = "Devel-KYTProf-Profiler-AWS-CLIWrapper"
-# badges = ["travis-ci.com"]
+badges = ["travis-ci.com"]
 authority="cpan:PAPIX"
 
 module_maker="ModuleBuildTiny"
