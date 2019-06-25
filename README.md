@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/papix/Devel-KYTProf-Profiler-AWS-CLIWrapper.svg?branch=master)](https://travis-ci.com/papix/Devel-KYTProf-Profiler-AWS-CLIWrapper)
+[![Build Status](https://travis-ci.org/papix/Devel-KYTProf-Profiler-AWS-CLIWrapper.svg?branch=master)](https://travis-ci.org/papix/Devel-KYTProf-Profiler-AWS-CLIWrapper)
 # NAME
 
 Devel::KYTProf::Profiler::AWS::CLIWrapper - KYTProf prolifer for AWS::CLIWrapper
